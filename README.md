@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mabinahmad/mabinahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad, a passionate developer currently working on an Employee Management Application using the MERN stack. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm constantly learning and exploring new technologies.
+- 🔭 I'm currently working on developing an employee management application.
+- 💡 I'm passionate about building scalable and user-friendly web applications.
+
+## My Skills
+
+- **Frontend**: ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+- **Other**: ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
