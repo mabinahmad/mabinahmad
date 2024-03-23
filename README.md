@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Muhammad, a passionate developer currently working on an Employee Management Application using the MERN stack. Welcome to my GitHub profile!
+I'm Muhammad, a passionate developer currently working on an Classified Application using the MERN stack. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies.
-- 🔭 I'm currently working on developing an employee management application.
+- 🔭 I'm currently working on developing an classified application.
 - 💡 I'm passionate about building scalable and user-friendly web applications.
 
 ## My Skills
