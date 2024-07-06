@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Muhammad, a passionate developer currently working on a Classified Application using the MERN stack. Welcome to my GitHub profile!
+I'm Muhammad, a passionate developer currently working on a Food Delivery Application using the MERN stack. Welcome to my GitHub profile!
 
 ## About Me
 
