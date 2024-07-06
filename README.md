@@ -5,7 +5,7 @@ I'm Muhammad, a passionate developer currently working on a Food Delivery Applic
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies.
-- 🔭 I'm currently working on developing a classified application.
+- 🔭 I'm currently working on developing a food delivery application.
 - 💡 I'm passionate about building scalable and user-friendly web applications.
 
 ## My Skills
